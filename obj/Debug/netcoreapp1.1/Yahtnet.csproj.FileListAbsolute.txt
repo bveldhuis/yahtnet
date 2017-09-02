@@ -1,0 +1,8 @@
+C:\Projects\yahtnet\bin\Debug\netcoreapp1.1\Yahtnet.deps.json
+C:\Projects\yahtnet\bin\Debug\netcoreapp1.1\Yahtnet.runtimeconfig.json
+C:\Projects\yahtnet\bin\Debug\netcoreapp1.1\Yahtnet.runtimeconfig.dev.json
+C:\Projects\yahtnet\bin\Debug\netcoreapp1.1\Yahtnet.dll
+C:\Projects\yahtnet\bin\Debug\netcoreapp1.1\Yahtnet.pdb
+C:\Projects\yahtnet\obj\Debug\netcoreapp1.1\Yahtnet.AssemblyInfo.cs
+C:\Projects\yahtnet\obj\Debug\netcoreapp1.1\Yahtnet.dll
+C:\Projects\yahtnet\obj\Debug\netcoreapp1.1\Yahtnet.pdb
